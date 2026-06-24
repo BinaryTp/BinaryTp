@@ -1,18 +1,27 @@
-## Hi there 👋
-Author-Tushar Patel .
-Future Engineer.
+# Hi, I'm Tushar Patel 👋
 
-<!--
-**BinaryTp/BinaryTp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓  B.Tech CSE (AI & ML) Student
 
-Here are some ideas to get you started:
+💻 Passionate about Artificial Intelligence, Machine Learning and Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently working on AI and MERN Stack Projects
+
+🌱 Learning:
+• Machine Learning
+• Deep Learning
+• MERN Stack
+• Generative AI
+
+📫 Reach me:
+pateltushar05032006@gmail.com
+
+⚡ Fun Fact:
+I love building real-world AI applications.
+
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BinaryTp&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryTp&layout=compact)
