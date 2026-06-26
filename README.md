@@ -11,6 +11,7 @@
 • Deep Learning
 • MERN Stack
 • Generative AI
+* Agentic AI
 
 📫 Reach me:
 pateltushar05032006@gmail.com
