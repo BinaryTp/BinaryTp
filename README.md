@@ -1,4 +1,4 @@
-# Hi, I'm Tushar Patel 👋
+# Hello to everyone, I'm Tushar Patel 👋
 
 🎓  B.Tech CSE (AI & ML) Student
 
